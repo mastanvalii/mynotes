@@ -1,0 +1,17 @@
+Unit 1: Overview of DB2 on Linux, UNIX and Windows (1 hour)
+Unit 2: Command Line Processor (CLP) and GUI usage (1 hour) 
+Unit 3: The DB2 Database Manager Instance (3 hours) 
+Unit 4: Creating databases and data placement (4 hours) 
+Unit 5: Creating database objects (2 hours) 
+Unit 6: Moving data (3 hours) 
+Unit 7: Backup and recovery (3 hours) 
+Unit 8: Database Maintenance, Monitoring and Problem Determination (3 hours) 
+Unit 9: Locking and concurrency (2 hours) 
+Unit 10: Security (1 hour) 
+Unit 11: Log Management (2 hours) 
+Unit 12: Performance Tuning (3 hours) 
+Unit 13: Advanced Monitoring (2 hours) 
+Unit 14: High Availability with DB2 Database products (2 Hours) 
+
+Total 32 Hours
+
